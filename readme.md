@@ -7,4 +7,7 @@ Sales ERP is a Modern and responsive small business management system. Developed
 
 ![erp23](https://user-images.githubusercontent.com/25568503/65633890-e816b400-dffe-11e9-8442-fb977552d5e6.png)
 
+![admin](https://user-images.githubusercontent.com/25568503/65634018-28763200-dfff-11e9-967b-b6ec401147df.png)
+
+
 
